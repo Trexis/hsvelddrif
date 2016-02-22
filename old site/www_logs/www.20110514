@@ -1,0 +1,38 @@
+dynamicip-94-181-167-208.pppoe.penza.ertelecom.ru - - [14/May/2011:01:03:40 +0200] "GET /node/84 HTTP/1.0" 200 14040 "http://www.hsvelddrif.co.za/node/84" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; MRA 4.6 (build 01425); .NET CLR 1.1.4322; .NET CLR 2.0.50727)" 540 14619
+static-208-80-194-26.as13448.com - - [14/May/2011:05:56:24 +0200] "GET / HTTP/1.0" 200 14707 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts; SV1; Hotbar 4.5.0.0; .NET CLR 1.0.3705)" 166 15286
+static-208-80-194-31.as13448.com - - [14/May/2011:06:07:10 +0200] "GET / HTTP/1.0" 200 14707 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; acc=vonner; .NET CLR 1.1.4322; InfoPath.1)" 154 15286
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:06:31:16 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 257 1155
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:06:31:17 +0200] "GET / HTTP/1.1" 200 4253 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 280 4915
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:07:12:47 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 261 1155
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:07:12:48 +0200] "GET /node/124 HTTP/1.1" 200 3753 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4415
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:07:54:18 +0200] "GET /node/1 HTTP/1.1" 200 4455 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 286 5118
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:07:57:30 +0200] "GET /node/36 HTTP/1.1" 200 4141 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 287 4804
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:08:13:28 +0200] "GET /node/237 HTTP/1.1" 200 3859 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4522
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:08:55:00 +0200] "GET /node/6 HTTP/1.1" 200 3967 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 286 4630
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:08:58:13 +0200] "GET /node/281 HTTP/1.1" 200 3901 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4564
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:10:14:52 +0200] "GET /node/123 HTTP/1.1" 200 3531 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4194
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:10:53:13 +0200] "GET /node/84 HTTP/1.1" 200 4193 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 291 4856
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:11:37:54 +0200] "GET /node/128 HTTP/1.1" 200 3537 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4200
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:12:03:22 +0200] "GET /node/248 HTTP/1.1" 200 3540 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4203
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:12:19:17 +0200] "GET /node/63 HTTP/1.1" 200 3615 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 287 4278
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:12:37:23 +0200] "GET /calendar/2010-05-17 HTTP/1.1" 200 3906 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4569
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:12:38:23 +0200] "GET /node/220 HTTP/1.1" 200 3864 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4527
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:12:41:34 +0200] "GET /node/158 HTTP/1.1" 200 3547 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4210
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:12:47:56 +0200] "GET /node/20 HTTP/1.1" 200 3576 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 287 4239
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:13:07:02 +0200] "GET /node/189 HTTP/1.1" 200 4082 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4745
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:13:22:54 +0200] "GET /node/295 HTTP/1.1" 200 3863 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4526
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:13:48:21 +0200] "GET /calendar/2011-05-17 HTTP/1.1" 200 3908 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4571
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:14:07:18 +0200] "GET /node/242 HTTP/1.1" 200 3537 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4200
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:14:13:38 +0200] "GET /calendar/2009-09-19 HTTP/1.1" 200 3913 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4576
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:14:16:49 +0200] "GET /calendar/2009-09-25 HTTP/1.1" 200 3909 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4572
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:15:29:44 +0200] "GET /node/71 HTTP/1.1" 200 3678 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 291 4341
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:16:01:27 +0200] "GET /calendar/2009-11-13 HTTP/1.1" 200 4102 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4765
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:16:14:08 +0200] "GET /node/294 HTTP/1.1" 200 3861 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4524
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:17:42:54 +0200] "GET /node/296 HTTP/1.1" 200 3864 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4527
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:18:30:25 +0200] "GET /user/login?destination=comment/reply/295%2523comment-form HTTP/1.1" 200 3498 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 291 4161
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:20:12:23 +0200] "GET /user/login?destination=comment/reply/294%2523comment-form HTTP/1.1" 200 3497 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 291 4160
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:20:36:54 +0200] "GET /calendar/2009-11-25 HTTP/1.1" 200 3916 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4579
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:21:56:02 +0200] "GET /user/login?destination=comment/reply/296%2523comment-form HTTP/1.1" 200 3497 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 291 4160
+crawl-66-249-71-21.googlebot.com - - [14/May/2011:22:04:59 +0200] "GET /node/144 HTTP/1.1" 200 3549 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4212
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:22:49:00 +0200] "GET /node/76 HTTP/1.1" 200 3812 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 291 4475
+crawl-66-249-71-134.googlebot.com - - [14/May/2011:23:14:09 +0200] "GET /node/277 HTTP/1.1" 200 3916 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4579

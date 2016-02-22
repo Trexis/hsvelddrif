@@ -1,0 +1,15 @@
+; $Id
+
+name = Node Gallery Access
+description = "Access module for node gallery module."
+core = 6.x
+dependencies[] = node_gallery
+package = Node Gallery
+version = "6.x-2.0-BETA"
+
+; Information added by drupal.org packaging script on 2009-11-08
+version = "6.x-2.0-alpha11"
+core = "6.x"
+project = "node_gallery"
+datestamp = "1257723053"
+

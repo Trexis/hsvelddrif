@@ -1,0 +1,103 @@
+# $Id: robots.txt,v 1.9.2.1 2008/12/10 20:12:19 goba Exp $
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/wc/robots.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /sites/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /contact/
+Disallow: /logout/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=contact/
+Disallow: /?q=logout/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+
+# Directories
+Disallow: /d612/
+Disallow: /d612/includes/
+Disallow: /d612/misc/
+Disallow: /d612/modules/
+Disallow: /d612/profiles/
+Disallow: /d612/scripts/
+Disallow: /d612/sites/
+Disallow: /d612/themes/
+# Files
+Disallow: /d612/CHANGELOG.txt
+Disallow: /d612/cron.php
+Disallow: /d612/INSTALL.mysql.txt
+Disallow: /d612/INSTALL.pgsql.txt
+Disallow: /d612/install.php
+Disallow: /d612/INSTALL.txt
+Disallow: /d612/LICENSE.txt
+Disallow: /d612/MAINTAINERS.txt
+Disallow: /d612/update.php
+Disallow: /d612/UPGRADE.txt
+Disallow: /d612/xmlrpc.php
+# Paths (clean URLs)
+Disallow: /d612/admin/
+Disallow: /d612/comment/reply/
+Disallow: /d612/contact/
+Disallow: /d612/logout/
+Disallow: /d612/node/add/
+Disallow: /d612/search/
+Disallow: /d612/user/register/
+Disallow: /d612/user/password/
+Disallow: /d612/user/login/
+# Paths (no clean URLs)
+Disallow: /d612/?q=admin/
+Disallow: /d612/?q=comment/reply/
+Disallow: /d612/?q=contact/
+Disallow: /d612/?q=logout/
+Disallow: /d612/?q=node/add/
+Disallow: /d612/?q=search/
+Disallow: /d612/?q=user/password/
+Disallow: /d612/?q=user/register/
+Disallow: /d612/?q=user/login/

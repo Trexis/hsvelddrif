@@ -1,0 +1,34 @@
+157.55.17.193 - - [11/Sep/2011:00:45:17 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2036
+157.55.17.193 - - [11/Sep/2011:00:46:01 +0200] "GET /node/39 HTTP/1.1" 200 3956 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 300 4619
+157.55.17.193 - - [11/Sep/2011:02:15:53 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.17.193 - - [11/Sep/2011:02:16:31 +0200] "GET /node/276 HTTP/1.1" 200 4039 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 297 4702
+157.55.17.193 - - [11/Sep/2011:02:45:31 +0200] "GET /node/207 HTTP/1.1" 200 3876 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 297 4539
+157.55.17.193 - - [11/Sep/2011:03:46:35 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.16.221 - - [11/Sep/2011:06:16:50 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.16.221 - - [11/Sep/2011:06:17:41 +0200] "GET /node/217 HTTP/1.1" 200 3877 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 297 4540
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:07:49:59 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 261 1155
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:07:50:00 +0200] "GET /calendar/2010-08-09 HTTP/1.1" 200 4042 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4704
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:08:36:24 +0200] "GET /calendar/2010-W16 HTTP/1.1" 200 4034 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 251 4697
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:08:42:26 +0200] "GET /forum HTTP/1.1" 200 3480 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 239 4143
+crawl-66-249-72-169.googlebot.com - - [11/Sep/2011:08:44:27 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 257 1155
+crawl-66-249-72-169.googlebot.com - - [11/Sep/2011:08:44:28 +0200] "GET /d612/ HTTP/1.1" 200 4200 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 285 4862
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:09:48:33 +0200] "GET /calendar/2010-W27 HTTP/1.1" 200 4034 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 251 4697
+157.55.16.221 - - [11/Sep/2011:10:04:00 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.16.221 - - [11/Sep/2011:10:05:02 +0200] "GET /node/221 HTTP/1.1" 200 3785 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 297 4448
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:10:28:42 +0200] "GET /calendar/2010-01-26 HTTP/1.1" 200 3910 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4573
+crawl-66-249-72-169.googlebot.com - - [11/Sep/2011:10:52:46 +0200] "GET /user/login?destination=comment/reply/50%2523comment-form HTTP/1.1" 200 3496 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 286 4159
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:10:56:46 +0200] "GET /calendar/2010-05-22 HTTP/1.1" 200 3908 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4571
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:11:32:53 +0200] "GET /calendar/2010-W5 HTTP/1.1" 200 4031 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 250 4694
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:11:52:58 +0200] "GET /calendar/2010-02-09 HTTP/1.1" 200 3909 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4572
+157.55.16.221 - - [11/Sep/2011:12:48:34 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.16.221 - - [11/Sep/2011:12:49:35 +0200] "GET / HTTP/1.1" 200 4201 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 289 4864
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:13:45:20 +0200] "GET /calendar/2010-W29 HTTP/1.1" 200 4197 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 251 4860
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:14:01:22 +0200] "GET /calendar/2010-10-03 HTTP/1.1" 200 3909 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4572
+static-208-80-194-32.as13448.com - - [11/Sep/2011:14:28:46 +0200] "GET / HTTP/1.0" 200 14908 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; SpamBlockerUtility 4.8.0)" 216 15487
+static-208-80-194-34.as13448.com - - [11/Sep/2011:14:40:10 +0200] "GET / HTTP/1.0" 200 14908 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; {D128C8A7-45AF-4E59-A54E-48B5E1B2CC4D}; .NET CLR 1.1.4322)" 165 15487
+crawl-66-249-72-27.googlebot.com - - [11/Sep/2011:14:41:29 +0200] "GET /calendar/2010-01-08 HTTP/1.1" 200 3910 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4573
+dsl-241-39-11.telkomadsl.co.za - - [11/Sep/2011:20:30:37 +0200] "GET / HTTP/1.1" 200 4200 "http://www.google.co.za/search?sourceid=navclient&aq=13h&oq=&ie=UTF-8&rlz=1T4ADSA_enZA396ZA397&q=hoerskool+velddrif" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; GTB7.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; FunWebProducts)" 789 4707
+dsl-241-39-11.telkomadsl.co.za - - [11/Sep/2011:20:31:04 +0200] "GET /galleries HTTP/1.1" 200 4175 "http://www.hsvelddrif.co.za/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; GTB7.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; FunWebProducts)" 721 4682
+dsl-241-39-11.telkomadsl.co.za - - [11/Sep/2011:20:31:05 +0200] "GET /sites/default/files/imagecache/node-gallery-cover/ HTTP/1.1" 404 4197 "http://www.hsvelddrif.co.za/galleries" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; FunWebProducts; GTB7.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; FunWebProducts)" 507 4710
+157.55.16.221 - - [11/Sep/2011:23:05:56 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.16.221 - - [11/Sep/2011:23:06:32 +0200] "GET /node/203 HTTP/1.1" 200 3876 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 297 4539

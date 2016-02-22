@@ -1,0 +1,31 @@
+msnbot-207-46-13-93.search.msn.com - - [10/Jun/2012:01:56:39 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2054
+msnbot-207-46-13-93.search.msn.com - - [10/Jun/2012:02:00:55 +0200] "GET /node/6 HTTP/1.1" 200 3969 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 331 4645
+crawl-66-249-66-129.googlebot.com - - [10/Jun/2012:02:19:13 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 266 1173
+crawl-66-249-66-129.googlebot.com - - [10/Jun/2012:02:19:13 +0200] "GET /node/156 HTTP/1.1" 200 3547 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4222
+crawl-66-249-66-173.googlebot.com - - [10/Jun/2012:02:50:28 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 270 1173
+crawl-66-249-72-117.googlebot.com - - [10/Jun/2012:02:50:28 +0200] "GET /node/284 HTTP/1.1" 200 3920 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4596
+msnbot-65-52-104-11.search.msn.com - - [10/Jun/2012:03:23:14 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2054
+msnbot-65-52-104-11.search.msn.com - - [10/Jun/2012:03:25:49 +0200] "GET /node/192 HTTP/1.1" 200 3872 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 329 4548
+crawl-66-249-66-129.googlebot.com - - [10/Jun/2012:04:15:38 +0200] "GET /node/337 HTTP/1.1" 200 3547 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4223
+crawl-66-249-72-248.googlebot.com - - [10/Jun/2012:06:18:03 +0200] "GET /node/165 HTTP/1.1" 200 3557 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4233
+crawl-66-249-66-173.googlebot.com - - [10/Jun/2012:07:20:48 +0200] "GET /node/278 HTTP/1.1" 200 3919 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4595
+crawl-66-249-72-117.googlebot.com - - [10/Jun/2012:10:20:32 +0200] "GET /calendar/2012-03-07 HTTP/1.1" 200 3911 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4587
+crawl-66-249-72-248.googlebot.com - - [10/Jun/2012:11:14:36 +0200] "GET /calendar/2011-12-02 HTTP/1.1" 200 3911 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 249 4587
+crawl-66-249-66-129.googlebot.com - - [10/Jun/2012:11:14:36 +0200] "GET /node/58 HTTP/1.1" 200 3620 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 287 4296
+crawl-66-249-66-129.googlebot.com - - [10/Jun/2012:14:04:55 +0200] "GET /node/160 HTTP/1.1" 200 3549 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4225
+crawl-66-249-66-173.googlebot.com - - [10/Jun/2012:15:37:08 +0200] "GET /node/298 HTTP/1.1" 200 3544 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4220
+msnbot-157-55-18-25.search.msn.com - - [10/Jun/2012:16:43:08 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2054
+msnbot-65-52-110-192.search.msn.com - - [10/Jun/2012:17:57:37 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2054
+msnbot-65-52-110-192.search.msn.com - - [10/Jun/2012:17:58:23 +0200] "GET /node/272 HTTP/1.1" 200 3863 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 329 4539
+msnbot-157-55-18-25.search.msn.com - - [10/Jun/2012:17:59:36 +0200] "GET /node/241 HTTP/1.1" 200 3892 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 279 4568
+crawl-66-249-66-129.googlebot.com - - [10/Jun/2012:19:23:22 +0200] "GET /node/360 HTTP/1.1" 200 3872 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4548
+ns108.cellestill.org - - [10/Jun/2012:21:04:55 +0200] "GET /node/77 HTTP/1.0" 200 12758 "http://www.hsvelddrif.co.za/node/77" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)" 471 13350
+ns108.cellestill.org - - [10/Jun/2012:21:04:59 +0200] "GET /forum HTTP/1.0" 200 12348 "http://www.hsvelddrif.co.za/forum" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)" 540 12790
+crawl-66-249-72-117.googlebot.com - - [10/Jun/2012:21:26:20 +0200] "GET /node/258 HTTP/1.1" 200 3533 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4209
+143.233.84.110.broad.fz.fj.dynamic.163data.com.cn - - [10/Jun/2012:22:13:05 +0200] "GET /node?page=1 HTTP/1.0" 200 15211 "http://hsvelddrif.co.za/node?page=1" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461)" 436 15803
+143.233.84.110.broad.fz.fj.dynamic.163data.com.cn - - [10/Jun/2012:22:13:08 +0200] "GET /forum HTTP/1.0" 200 12348 "http://hsvelddrif.co.za/forum" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461)" 497 12790
+msnbot-157-55-16-221.search.msn.com - - [10/Jun/2012:22:29:36 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2054
+msnbot-157-55-16-221.search.msn.com - - [10/Jun/2012:22:30:20 +0200] "GET /node/280 HTTP/1.1" 200 3909 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 279 4585
+msnbot-65-52-104-11.search.msn.com - - [10/Jun/2012:22:36:55 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2054
+msnbot-65-52-104-11.search.msn.com - - [10/Jun/2012:22:40:20 +0200] "GET /node/20 HTTP/1.1" 200 3577 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 332 4253
+crawl-66-249-66-129.googlebot.com - - [10/Jun/2012:22:55:30 +0200] "GET /calendar/2009-10-32 HTTP/1.1" 200 3916 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4592

@@ -1,0 +1,16 @@
+157.55.17.193 - - [27/Aug/2011:01:23:18 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.17.193 - - [27/Aug/2011:01:23:59 +0200] "GET / HTTP/1.1" 200 4012 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 289 4675
+crawl-66-249-72-70.googlebot.com - - [27/Aug/2011:02:36:00 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 261 1155
+crawl-66-249-72-251.googlebot.com - - [27/Aug/2011:07:17:20 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 257 1155
+crawl-66-249-72-251.googlebot.com - - [27/Aug/2011:07:17:21 +0200] "GET /calendar/2009-W53 HTTP/1.1" 200 4040 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 247 4702
+static-208-80-194-26.as13448.com - - [27/Aug/2011:09:42:28 +0200] "GET / HTTP/1.0" 200 14339 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; ITWFEG ITS Helpdesk; FunWebProducts; .NET CLR 1.0.3705)" 166 14918
+static-208-80-194-31.as13448.com - - [27/Aug/2011:10:02:38 +0200] "GET / HTTP/1.0" 200 14339 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; ZangoToolbar 4.8.3) Netscape/8.0.3.3" 167 14918
+157.55.17.193 - - [27/Aug/2011:10:05:26 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.17.193 - - [27/Aug/2011:10:06:01 +0200] "GET /node/192 HTTP/1.1" 200 3871 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 297 4534
+crawl-66-249-72-70.googlebot.com - - [27/Aug/2011:10:29:16 +0200] "GET /calendar/2010-11-18 HTTP/1.1" 200 3914 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4577
+crawl-66-249-72-251.googlebot.com - - [27/Aug/2011:15:13:02 +0200] "GET /calendar/2009-10-30 HTTP/1.1" 200 4092 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 249 4755
+crawl-66-249-72-70.googlebot.com - - [27/Aug/2011:15:34:51 +0200] "GET /calendar/2010-05-14 HTTP/1.1" 200 3909 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 253 4572
+157.55.17.193 - - [27/Aug/2011:17:58:20 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+157.55.17.193 - - [27/Aug/2011:17:59:00 +0200] "GET /node/38 HTTP/1.1" 200 3613 "-" "-" 211 4276
+crawl-66-249-72-251.googlebot.com - - [27/Aug/2011:18:30:52 +0200] "GET /calendar/2009-10-28 HTTP/1.1" 200 4059 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 313 4722
+crawl-66-249-72-251.googlebot.com - - [27/Aug/2011:18:31:01 +0200] "GET /calendar/2011-W16 HTTP/1.1" 200 4035 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 311 4698

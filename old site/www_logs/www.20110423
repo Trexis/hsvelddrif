@@ -1,0 +1,35 @@
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:00:14:22 +0200] "GET /calendar/2010-05-26 HTTP/1.1" 200 3910 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4573
+crawl-66-249-71-82.googlebot.com - - [23/Apr/2011:01:58:13 +0200] "GET /calendar/2010-12-22 HTTP/1.1" 200 3910 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4573
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:02:01:39 +0200] "GET /calendar/2010-W21 HTTP/1.1" 200 4031 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 301 4694
+crawl-66-249-71-82.googlebot.com - - [23/Apr/2011:02:15:26 +0200] "GET /node/160 HTTP/1.1" 200 3549 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4212
+crawl-66-249-71-82.googlebot.com - - [23/Apr/2011:02:43:02 +0200] "GET /calendar/2009-12-13 HTTP/1.1" 200 3911 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 299 4574
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:03:10:39 +0200] "GET /calendar/2010-08-25 HTTP/1.1" 200 4045 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4708
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:03:30:34 +0200] "GET /calendar/2010-01-30 HTTP/1.1" 200 3914 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4577
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:03:54:47 +0200] "GET /calendar/2010-09-20 HTTP/1.1" 200 3912 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4575
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:04:19:01 +0200] "GET /calendar/2010-12-01 HTTP/1.1" 200 3915 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4578
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:05:03:58 +0200] "GET /calendar/2010-09-19 HTTP/1.1" 200 3911 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4574
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:06:23:32 +0200] "GET /calendar/2010-11-28 HTTP/1.1" 200 3910 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4573
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:06:54:39 +0200] "GET /calendar/2010-W28 HTTP/1.1" 200 4029 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 301 4692
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:07:11:57 +0200] "GET /calendar/2010-11-27 HTTP/1.1" 200 3913 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4576
+msnbot-157-55-116-72.search.msn.com - - [23/Apr/2011:07:19:30 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "msnbot/2.0b (+http://search.msn.com/msnbot.htm)._" 215 1117
+msnbot-157-55-116-72.search.msn.com - - [23/Apr/2011:07:19:31 +0200] "GET /node/2 HTTP/1.1" 200 3961 "-" "msnbot/2.0b (+http://search.msn.com/msnbot.htm)._" 211 4586
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:07:22:25 +0200] "GET /calendar/2010-04-05 HTTP/1.1" 200 3906 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4569
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:07:40:24 +0200] "GET /downloads/TickerSetup.exe HTTP/1.1" 404 1873 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 212 2543
+msnbot-207-46-13-133.search.msn.com - - [23/Apr/2011:08:17:12 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2036
+msnbot-207-46-13-133.search.msn.com - - [23/Apr/2011:08:18:01 +0200] "GET /node/79 HTTP/1.1" 200 3698 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 332 4361
+crawl-66-249-71-134.googlebot.com - - [23/Apr/2011:08:45:56 +0200] "GET /calendar/2010-11-25 HTTP/1.1" 200 3917 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 303 4580
+msnbot-65-52-110-43.search.msn.com - - [23/Apr/2011:14:18:11 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2036
+msnbot-65-52-110-43.search.msn.com - - [23/Apr/2011:14:18:58 +0200] "GET /node/86 HTTP/1.1" 200 3790 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 332 4453
+91.201.66.122 - - [23/Apr/2011:17:16:00 +0200] "GET /node/280 HTTP/1.0" 200 13627 "http://hsvelddrif.co.za/node/280" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 455 14206
+91.201.66.122 - - [23/Apr/2011:17:16:02 +0200] "GET /node//276 HTTP/1.0" 200 16109 "http://hsvelddrif.co.za/276" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 530 16532
+91.201.66.122 - - [23/Apr/2011:17:16:05 +0200] "GET /modules/cck/theme/content-module.css?S HTTP/1.0" 200 2397 "http://hsvelddrif.co.za/modules/cck/theme/content-module.css?S" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 594 2780
+91.201.66.122 - - [23/Apr/2011:17:16:05 +0200] "GET /modules/node/node.css?S HTTP/1.0" 200 740 "http://hsvelddrif.co.za/modules/node/node.css?S" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 564 1122
+91.201.66.122 - - [23/Apr/2011:17:16:06 +0200] "GET /sites/all/modules/node_gallery/node_gallery.css?S HTTP/1.0" 200 794 "http://hsvelddrif.co.za/sites/all/modules/node_gallery/node_gallery.css?S" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 616 1176
+91.201.66.122 - - [23/Apr/2011:17:16:06 +0200] "GET /node/6 HTTP/1.0" 200 13548 "http://hsvelddrif.co.za/node/6" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 530 13971
+91.201.66.122 - - [23/Apr/2011:17:16:09 +0200] "GET /node//1 HTTP/1.0" 200 14973 "http://hsvelddrif.co.za/1" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 526 15396
+91.201.66.122 - - [23/Apr/2011:17:16:11 +0200] "GET /node//3 HTTP/1.0" 200 12477 "http://hsvelddrif.co.za/3" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 526 12900
+91.201.66.122 - - [23/Apr/2011:17:16:13 +0200] "GET /node//4 HTTP/1.0" 200 12657 "http://hsvelddrif.co.za/4" "Mozilla/4.61 [en] (X11; U; ) - BrowseX (2.0.0 Windows)" 526 13080
+static-208-80-194-27.as13448.com - - [23/Apr/2011:17:21:43 +0200] "GET / HTTP/1.0" 200 14707 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; AT&T CSM7.0; SV1)" 128 15286
+static-208-80-194-31.as13448.com - - [23/Apr/2011:17:36:00 +0200] "GET / HTTP/1.0" 200 14707 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; Hotbar 4.2.8.0)" 138 15286
+250.25.100.94.king-servers.com - - [23/Apr/2011:21:01:09 +0200] "GET /node/?q=user/register HTTP/1.1" 403 10930 "-" "Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.1; Windows NT 5.1;)" 284 11538
+250.25.100.94.king-servers.com - - [23/Apr/2011:21:01:10 +0200] "GET /node/user/register HTTP/1.1" 404 6192 "-" "Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.1; Windows NT 5.1;)" 360 6644

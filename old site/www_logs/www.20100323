@@ -1,0 +1,6 @@
+crawl-66-249-65-122.googlebot.com - - [23/Mar/2010:09:25:08 +0200] "GET /node?page=2 HTTP/1.1" 200 4127 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-65-122.googlebot.com - - [23/Mar/2010:10:52:46 +0200] "GET / HTTP/1.1" 200 4402 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-65-122.googlebot.com - - [23/Mar/2010:13:55:26 +0200] "GET /calendar/2009-11-27 HTTP/1.1" 200 3890 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-65-174.googlebot.com - - [23/Mar/2010:19:44:16 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-65-174.googlebot.com - - [23/Mar/2010:19:44:16 +0200] "GET /calendar/2010-W14 HTTP/1.1" 200 4007 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+crawl-66-249-65-122.googlebot.com - - [23/Mar/2010:23:15:19 +0200] "GET /calendar/2009-12-32 HTTP/1.1" 200 3890 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"

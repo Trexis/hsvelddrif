@@ -1,0 +1,14 @@
+msnbot-65-52-109-200.search.msn.com - - [26/Oct/2011:12:11:56 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2036
+msnbot-65-52-109-200.search.msn.com - - [26/Oct/2011:12:12:33 +0200] "GET /node/267 HTTP/1.1" 200 3555 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 301 4218
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:12:46:38 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2036
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:12:47:32 +0200] "GET /node/19 HTTP/1.1" 200 3897 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 296 4560
+msnbot-65-52-110-201.search.msn.com - - [26/Oct/2011:12:50:03 +0200] "GET / HTTP/1.1" 200 4199 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 289 4862
+msnbot-207-46-194-71.search.msn.com - - [26/Oct/2011:12:50:24 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)" 217 1117
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:13:42:38 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2036
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:13:43:36 +0200] "GET /node/266 HTTP/1.1" 200 3893 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 301 4556
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:13:43:46 +0200] "GET /node/79 HTTP/1.1" 200 3700 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 300 4363
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:13:45:35 +0200] "GET /node/266 HTTP/1.1" 200 3894 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 301 4557
+msnbot-65-52-110-192.search.msn.com - - [26/Oct/2011:17:06:27 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2036
+msnbot-65-52-110-192.search.msn.com - - [26/Oct/2011:17:07:08 +0200] "GET /node/15 HTTP/1.1" 200 3599 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 300 4262
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:18:48:16 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2036
+msnbot-65-52-109-146.search.msn.com - - [26/Oct/2011:18:49:03 +0200] "GET /galleries HTTP/1.1" 200 4175 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 302 4838

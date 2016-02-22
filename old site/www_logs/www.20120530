@@ -1,0 +1,24 @@
+crawl-66-249-71-44.googlebot.com - - [30/May/2012:03:12:02 +0200] "GET /node/233 HTTP/1.1" 200 3820 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4496
+msnbot-157-55-16-55.search.msn.com - - [30/May/2012:04:22:27 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2054
+msnbot-157-55-16-55.search.msn.com - - [30/May/2012:04:23:16 +0200] "GET /node/171 HTTP/1.1" 200 3557 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 279 4233
+msnbot-207-46-204-181.search.msn.com - - [30/May/2012:05:08:13 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2054
+msnbot-207-46-204-181.search.msn.com - - [30/May/2012:05:09:15 +0200] "GET /node/27 HTTP/1.1" 200 3472 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 332 4148
+msnbot-157-55-16-55.search.msn.com - - [30/May/2012:06:54:31 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2054
+msnbot-157-55-16-55.search.msn.com - - [30/May/2012:06:55:16 +0200] "GET / HTTP/1.1" 200 4124 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 325 4800
+crawl-66-249-71-44.googlebot.com - - [30/May/2012:06:58:14 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 266 1173
+crawl-66-249-71-44.googlebot.com - - [30/May/2012:10:46:50 +0200] "GET /node/356 HTTP/1.1" 200 3849 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4525
+crawl-66-249-71-44.googlebot.com - - [30/May/2012:10:48:34 +0200] "GET /node/7 HTTP/1.1" 200 3772 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 286 4448
+crawl-66-249-71-149.googlebot.com - - [30/May/2012:11:29:53 +0200] "GET /node/128 HTTP/1.1" 200 3536 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4212
+dsl-240-141-31.telkomadsl.co.za - - [30/May/2012:12:06:54 +0200] "GET /sites/default/files/eri_0.jpg HTTP/1.1" 304 - "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.3; BTRS123345; MSOffice 12)" 348 336
+dsl-240-141-31.telkomadsl.co.za - - [30/May/2012:12:06:54 +0200] "GET /sites/default/files/eri_0.jpg HTTP/1.1" 304 - "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.3; BTRS123345; MSOffice 12)" 348 336
+msnbot-207-46-192-50.search.msn.com - - [30/May/2012:13:03:29 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 268 2054
+msnbot-207-46-192-50.search.msn.com - - [30/May/2012:13:04:14 +0200] "GET /node/4 HTTP/1.1" 200 3553 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 327 4229
+crawl-66-249-71-44.googlebot.com - - [30/May/2012:17:39:00 +0200] "GET /node/243 HTTP/1.1" 200 3560 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4236
+msnbot-207-46-204-181.search.msn.com - - [30/May/2012:19:42:15 +0200] "GET /robots.txt HTTP/1.1" 200 1590 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 272 2054
+crawl-66-249-68-175.googlebot.com - - [30/May/2012:19:42:29 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 270 1173
+crawl-66-249-68-175.googlebot.com - - [30/May/2012:19:42:30 +0200] "GET /node/260 HTTP/1.1" 200 3536 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4211
+msnbot-207-46-204-181.search.msn.com - - [30/May/2012:19:43:12 +0200] "GET /node/5 HTTP/1.1" 200 3605 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 331 4281
+crawl-66-249-67-40.googlebot.com - - [30/May/2012:20:09:32 +0200] "GET /robots.txt HTTP/1.1" 200 686 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 266 1173
+crawl-66-249-67-40.googlebot.com - - [30/May/2012:20:09:33 +0200] "GET /node/268 HTTP/1.1" 200 3893 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4568
+crawl-66-249-67-40.googlebot.com - - [30/May/2012:20:55:37 +0200] "GET /node/274 HTTP/1.1" 200 3864 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 288 4540
+crawl-66-249-68-175.googlebot.com - - [30/May/2012:21:05:51 +0200] "GET /node/263 HTTP/1.1" 200 3533 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 292 4209

@@ -1,0 +1,7 @@
+vc-41-2-143-60.umts.vodacom.co.za - - [09/Jun/2009:19:10:06 +0200] "GET /d612/ HTTP/1.1" 200 3887 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)"
+vc-41-2-143-60.umts.vodacom.co.za - - [09/Jun/2009:19:19:33 +0200] "GET /calendar HTTP/1.1" 200 4424 "http://hsvelddrif.co.za/d612/" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)"
+vc-41-2-143-60.umts.vodacom.co.za - - [09/Jun/2009:19:19:34 +0200] "GET /modules/calendar/jcalendar/jcalendar.css?c HTTP/1.1" 304 - "http://hsvelddrif.co.za/calendar" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)"
+vc-41-2-143-60.umts.vodacom.co.za - - [09/Jun/2009:19:19:35 +0200] "GET /modules/calendar/jcalendar/jcalendar.js?c HTTP/1.1" 304 - "http://hsvelddrif.co.za/calendar" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)"
+vc-41-2-143-60.umts.vodacom.co.za - - [09/Jun/2009:19:19:35 +0200] "GET /themes/aurora/images/bg-thead.gif HTTP/1.1" 304 - "http://hsvelddrif.co.za/calendar" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)"
+vc-41-2-143-60.umts.vodacom.co.za - - [09/Jun/2009:19:19:35 +0200] "GET /modules/jquerymenu/minus.png HTTP/1.1" 304 - "http://hsvelddrif.co.za/calendar" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)"
+vc-41-2-143-60.umts.vodacom.co.za - - [09/Jun/2009:19:21:18 +0200] "GET /d612/ HTTP/1.1" 200 3887 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322)"
